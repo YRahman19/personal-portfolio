@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=8w_kHIAkucA&ab_channel=CoderCoder
 <img width="1330" alt="portfolio-screenshot" src="https://github.com/YRahman19/personal-portfolio/assets/81781165/b7567195-4da1-45a6-8aa7-fb32d76b5a8c">
 
 ## Link to my deployed Site
+https://yrahman19.github.io/personal-portfolio/
 
 
 ## License
