@@ -23,6 +23,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow
 https://www.youtube.com/watch?v=8w_kHIAkucA&ab_channel=CoderCoder
 
 
+## Screenshot of my work
+<img width="1330" alt="portfolio-screenshot" src="https://github.com/YRahman19/personal-portfolio/assets/81781165/b7567195-4da1-45a6-8aa7-fb32d76b5a8c">
+
+## Link to my deployed Site
+
 
 ## License
 
